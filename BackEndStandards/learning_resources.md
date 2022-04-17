@@ -1,4 +1,4 @@
-![](assets/keep_learning.jpg)
+![](assets/images/keep_learning.jpg)
 
 ## learning Resources
 
