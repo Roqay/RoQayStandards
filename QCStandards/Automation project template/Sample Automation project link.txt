@@ -1,0 +1,2 @@
+Sample automation java project link: 
+https://github.com/DoaaEbraheem/RoqaySampleProject.git
