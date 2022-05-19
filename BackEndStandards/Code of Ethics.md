@@ -1,4 +1,4 @@
-![](assets/images/BackEnd  Code of Ethics-banner.png)
+![](assets/images/ethics_banner.png)
 <br>
 # RoQay Development Team Code of Ethics
 

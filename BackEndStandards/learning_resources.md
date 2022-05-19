@@ -14,8 +14,7 @@ https://github.com/ossu/computer-science
 #laravel Resources
 
 ``https://laracasts.com/ 
- -- email : hosam.zewain@gmail.com
- -- password : AllahAkber``
+
 
 
 

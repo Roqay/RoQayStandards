@@ -1,5 +1,4 @@
-![](assets/images/Training Plan-banner.png)
-
+![](assets/images/plan_banner.png)
 # Training Plan
 
 # 1	php oop    <br>
