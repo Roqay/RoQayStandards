@@ -1,4 +1,4 @@
-# Version Control Tools
+# Version Control
 
 We use [`Git`](https://git-scm.com) as version control system.
 
