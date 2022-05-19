@@ -12,7 +12,7 @@ Standards used by `RoQay` mobile team.
 
 We use [`Git`](https://git-scm.com) as version control system.
 
-Our `Git` repositorie are hosted on [`GitHub`](https://github.com/Roqay).
+Our `Git` repositories are hosted on [`GitHub`](https://github.com/Roqay).
 
 ### Recomended Git client
 
