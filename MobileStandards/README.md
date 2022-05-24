@@ -7,3 +7,4 @@ Standards used by `RoQay` mobile team. Here you will learn more about `RoQay` mo
 - [Applications Quality](ApplicationsQuality.md)
 - [Code Quality](CodeQuality.md)
 - [Applications Distribution](ApplicationsDistribution.md)
+- [General Guidance](GeneralGuidance.md)
