@@ -4,3 +4,4 @@ Standards used by `RoQay` mobile team. Here you will learn more about `RoQay` mo
 
 - [Development Tools](DevelopmentTools.md)
 - [Version Control](VersionControl.md)
+- [Applications Quality](ApplicationsQuality.md)
