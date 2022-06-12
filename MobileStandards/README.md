@@ -1,19 +1,10 @@
 # RoQay Mobile Standards
 
-Standards used by `RoQay` mobile team.
+Standards used by `RoQay` mobile team. Here you will learn more about `RoQay` mobile team, the tools we use and the way we code.
 
-## Development Tools
-
-- [Android Development Tools](AndroidDevelopmentTools.md)
-- [iOS Development Tools](iOSDevelopmentTools.md)
-- [ReactNative Development Tools](ReactNativeDevelopmentTools.md)
-
-## Version Control Tools
-
-We use [`Git`](https://git-scm.com) as version control system.
-
-Our `Git` repositories are hosted on [`GitHub`](https://github.com/Roqay).
-
-### Recomended Git client
-
-We recommend using [`GitHub Desktop`](https://desktop.github.com).
+- [Development Tools](DevelopmentTools.md)
+- [Version Control](VersionControl.md)
+- [Applications Quality](ApplicationsQuality.md)
+- [Code Quality](CodeQuality.md)
+- [Applications Distribution](ApplicationsDistribution.md)
+- [General Guidance](GeneralGuidance.md)
