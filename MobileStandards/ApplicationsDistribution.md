@@ -1,5 +1,6 @@
 # Applications Distribution
 
+- App version must be inculed inside the app in some screen.
 - App description must be professional and expressive. If the team member doesn’t know how to write that, he/she should ask the buiseness or quality for that description.
 - Screenshots must cover the app functionality not just splash and onboarding for example.
 - Screenshots must have no images with copyright (social media images for example) as they will cause the app to be refused.
