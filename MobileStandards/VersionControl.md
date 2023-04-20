@@ -4,18 +4,31 @@ We use [`Git`](https://git-scm.com) as version control system.
 
 Our `Git` repositories are hosted on [`GitHub`](https://github.com/Roqay).
 
-## Recomended Git client
+## ~~Recomended Git client~~
 
-We recommend using [`GitHub Desktop`](https://desktop.github.com).
+~~We recommend using [`GitHub Desktop`](https://desktop.github.com).~~
+
+## Git client
+
+Should use [`GitHub Desktop`](https://desktop.github.com).
 
 ## Git guidance
 
 - Git commits should represent parts of code not just single commit at the end of the day with the date as commit message.
-- We should use the (issue, feature, task, user story, ...etc.) ID and title as the commit message.
+- ~~We should use the (issue, feature, task, user story, ...etc.) ID and title as the commit message.~~
 
-  > For example: If this commit fixes bug number `1234` that has the title `Change order of products`, then the commit message should be `Bug 1234 - Resolved – Change order of products`.
+  > ~~For example: If this commit fixes bug number `1234` that has the title `Change order of products`, then the commit message should be `Bug 1234 - Resolved – Change order of products`.~~
 
-- Remote should be updated daily. If you are working on a task and did not finish it to use the style mentioned above, you can use `Daily updates` with description for what is done in that commit as commit message for that case.
+- We should use [`Conventional Commits`](https://www.conventionalcommits.org) rules for commit messages.
+- We should use the (issue, feature, task, user story, ...etc.) ID and type in the commit message.
+
+  > For example: If this commit fixes bug number `1234`, then the commit message should be `fix: bug 1234`.
+
+  > If this commit related to task number `1234`, then the commit message should be `feat: task 1234`.
+
+- It's also prefered to add the (issue, feature, task, user story, ...etc.) link in the description box in [`GitHub Desktop`](https://desktop.github.com) while committing.
+
+- Remote should be updated daily. ~~If you are working on a task and did not finish it to use the style mentioned above, you can use `Daily updates` with description for what is done in that commit as commit message for that case~~.
 - Main branch should contain latest stable version of code.
 - If you are in development process, you should use the `dev` branch for that. And after finishing development and fixing bugs and this version become stable, you should merge that branch in `main`.
 - If the project is done and you are working on second phase or change request, you should use another branch created from `main` for that. For example, `phase2` branch. And after finishing this phase and fixing bugs and this version become stable, you should merge that branch in `main`.
