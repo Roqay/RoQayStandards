@@ -10,7 +10,7 @@ Our `Git` repositories are hosted on [`GitHub`](https://github.com/Roqay).
 
 ## Git client
 
-Should use [`GitHub Desktop`](https://desktop.github.com).
+Must use [`GitHub Desktop`](https://desktop.github.com).
 
 ## Git guidance
 
