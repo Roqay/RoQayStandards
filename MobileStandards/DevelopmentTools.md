@@ -18,6 +18,8 @@ For hybrid `ReactNative` projects we are developing them using [`TypeScript`](ht
 
 For hybrid `ReactNative` projects code editing we are using [`Visual Studio Code`](https://code.visualstudio.com).
 
+For hybrid `ReactNative` projects initialization we are using [`roqay-react-native-template`](https://github.com/Roqay/react-native-temp).
+
 ### ~~Recommended JavaScript Tools~~
 
 ~~If you are developing hybrid `ReactNative` project using `JavaScript` it is prefered to use [`Flow`](https://flow.org) to provide you with static type checking for `JavaScript`. But it is recommended to use `TypeScript` instead of `JavaScript` as it contains types internaly.~~
